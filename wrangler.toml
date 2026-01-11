@@ -1,7 +1,8 @@
-// wrangler.toml (create new file in root)
-name = "manoj-portfolio"
-compatibility_date = "2024-01-01"
+name = "portfolio-website"
+main = ".open-next/worker.js"
+compatibility_date = "2024-09-23"
 compatibility_flags = ["nodejs_compat"]
 
-[site]
-bucket = ".vercel/output/static"
+[assets]
+binding = "ASSETS"
+directory = ".open-next/assets"
