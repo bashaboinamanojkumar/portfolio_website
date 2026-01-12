@@ -34,7 +34,7 @@ export function ContactSection() {
           <span>College Park, Maryland, USA</span>
         </div>
 
-        <p className="text-sm text-muted-foreground mt-4 font-mono">+1 (240) 438-0867</p>
+
       </div>
     </section>
   )

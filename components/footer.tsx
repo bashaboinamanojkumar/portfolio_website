@@ -44,7 +44,7 @@ export function Footer() {
           </div>
 
           <p className="text-sm text-muted-foreground text-center">
-            Designed & Built by <span className="text-primary">Your Name</span>
+            Designed & Built by <span className="text-primary">Manoj Kumar Bashaboina</span>
           </p>
 
           <p className="text-xs text-muted-foreground/70">© {new Date().getFullYear()} All rights reserved.</p>

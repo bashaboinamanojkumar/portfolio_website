@@ -12,23 +12,6 @@ export const metadata: Metadata = {
   description:
     "Portfolio of Manoj Kumar Bashaboina - Data Science and AI Engineer specializing in Machine Learning, RAG systems, Deep Learning, and portfolio optimization. MS in Data Science at University of Maryland.",
   generator: "v0.app",
-  icons: {
-    icon: [
-      {
-        url: "/icon-light-32x32.png",
-        media: "(prefers-color-scheme: light)",
-      },
-      {
-        url: "/icon-dark-32x32.png",
-        media: "(prefers-color-scheme: dark)",
-      },
-      {
-        url: "/icon.svg",
-        type: "image/svg+xml",
-      },
-    ],
-    apple: "/apple-icon.png",
-  },
 }
 
 export default function RootLayout({
