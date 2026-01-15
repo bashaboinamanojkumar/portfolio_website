@@ -13,15 +13,14 @@ export function HeroSection() {
               Manoj Kumar Bashaboina
             </h1>
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-muted-foreground">
-              Data Science & AI Engineer
+              Machine Learning Engineer & Data Scientist
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
-              I build intelligent systems using Machine Learning, Deep Learning, and RAG architectures. Currently
-              pursuing my Master&apos;s in Data Science at the{" "}
-              <span className="text-primary">University of Maryland, College Park</span> while researching portfolio
-              optimization with quantum computing.
+              I build intelligent systems using Machine Learning, Deep Learning, and RAG architectures.
+              Previously, I engineered scalable GenAI solutions at <span className="text-primary">Cognida.ai</span> using
+              LlamaIndex and Pinecone. Currently pursuing my Master&apos;s in Data Science at the{" "}
+              <span className="text-primary">University of Maryland, College Park.</span>
             </p>
-
             {/* Social Links - Updated with Manoj's actual links */}
             <div className="flex items-center gap-6 pt-4">
               <Link
