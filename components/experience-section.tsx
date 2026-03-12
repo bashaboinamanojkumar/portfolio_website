@@ -25,9 +25,9 @@ const experiences = [
   {
     period: "Jun 2023 - Jul 2024",
     title: "Machine Learning Engineer",
-    company: "Cognida.ai",
-    companyUrl: "https://cognida.ai",
-    location: "Hyderabad, Telangana, India",
+    company: "Epsilon",
+    companyUrl: "https://epsilon.com",
+    location: "Bengaluru, Karnataka, India",
     description:
       "Leveraged Generative AI and RAG (Retrieval-Augmented Generation) to build scalable solutions using LlamaIndex and Pinecone. Developed and optimized machine learning models using PyTorch and SQL for data management.",
     technologies: ["Machine Learning", "PyTorch", "SQL", "Generative AI", "RAG", "LlamaIndex", "Pinecone"],

@@ -17,7 +17,7 @@ export function HeroSection() {
             </h2>
             <p className="text-lg text-muted-foreground leading-relaxed max-w-xl">
               I build intelligent systems using Machine Learning, Deep Learning, and RAG architectures.
-              Previously, I engineered scalable GenAI solutions at <span className="text-primary">Cognida.ai</span> using
+              Previously, I engineered scalable GenAI solutions at <span className="text-primary">Epsilon</span> using
               LlamaIndex and Pinecone. Currently pursuing my Master&apos;s in Data Science at the{" "}
               <span className="text-primary">University of Maryland, College Park.</span>
             </p>
